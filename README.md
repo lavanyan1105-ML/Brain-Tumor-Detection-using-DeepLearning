@@ -28,12 +28,14 @@ The goal is to compare traditional methods like **Support Vector Machines (SVM)*
 ---
 
 ## 📂 Dataset
+<img width="615" height="493" alt="Screenshot 2026-03-10 175938" src="https://github.com/user-attachments/assets/cf795537-cde1-4b7e-8b6d-e74bf5637b4d" />
 
 * Brain MRI images organized into:
 
   * Training folder
   * Testing folder
 * Each folder contains subfolders for each tumor class
+<img width="632" height="450" alt="Screenshot 2026-03-10 180014" src="https://github.com/user-attachments/assets/e922b992-e673-4a61-94d1-e13ea2edb492" />
 
 ---
 
@@ -54,6 +56,8 @@ The goal is to compare traditional methods like **Support Vector Machines (SVM)*
 
   * Reduces dimensionality
   * Retains important variance
+<img width="459" height="312" alt="image" src="https://github.com/user-attachments/assets/19b16614-e0ad-494b-a05b-e18ac3905ba6" />
+
 
 * **VGG16 Feature Extraction**
 
@@ -68,6 +72,9 @@ The goal is to compare traditional methods like **Support Vector Machines (SVM)*
 
   * RBF Kernel (Non-linear)
   * Linear Kernel
+
+ <img width="738" height="450" alt="image" src="https://github.com/user-attachments/assets/43f0d179-d4b7-46f7-a979-99b46de6f10d" />
+
 
 * **XGBoost Classifier**
 
@@ -130,14 +137,6 @@ The goal is to compare traditional methods like **Support Vector Machines (SVM)*
 * Deep learning-based feature extraction (**VGG16**) significantly boosts performance
 * Best model: **VGG16 + XGBoost**
 
----
-
-## 🚀 Future Improvements
-
-* Data augmentation (rotation, flipping, zoom)
-* Hyperparameter tuning (GridSearchCV)
-* Fine-tuning VGG16 or using EfficientNet
-* Deployment using Streamlit / Flask
 
 ---
 
