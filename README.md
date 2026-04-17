@@ -151,9 +151,4 @@ The goal is to compare traditional methods like **Support Vector Machines (SVM)*
 * TensorFlow / Keras
 * Matplotlib, Seaborn
 
----
 
-
----
-
-## ⭐ If you found this useful, consider giving a star!
