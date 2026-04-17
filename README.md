@@ -1,5 +1,5 @@
 
-# 🧠 Brain Tumor Classification using SVM, PCA, XGBoost & VGG16
+#  Brain Tumor Classification using SVM, PCA, XGBoost & VGG16
 
 ## 📌 Overview
 
@@ -153,25 +153,6 @@ The goal is to compare traditional methods like **Support Vector Machines (SVM)*
 
 ---
 
-## ▶️ How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the notebook
-jupyter notebook
-```
-
----
-
-## 📌 Author
-
-Lavanya
-Final Year CSE (Data Science)
 
 ---
 
